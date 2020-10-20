@@ -3,14 +3,15 @@
 ![image](./image/SiamTrackers.png)
 
 # Description
-
 | Year | Conf |               Trackers               | Debug | Train | Test |      |      | Data | Set  |      |       |   Toolkit    |   Source   |
 | :--- | :--- | :----------------------------------: | ----- | :---: | :--: | :--: | :--: | :--: | :--: | :--: | :---: | :----------: | :--------: |
 |      |      |                                      |       |       |      | VID  | DET  | COCO | YTB  | GOT  | LaSOT |              |            |
 | 2016 | ECCV |     [SiamFC](./2-SiamFC/SiamFC)      | ✔     |   ✔   |  ✔   |  ✔   |      |      |      |      |       |    got10k    | unofficial |
+|  |  |  |  |  |  |  | | | | | |  |  |
 |      |      | [SiamFC](./2-SiamFC/SiamFC-GOT)      | ✔     |   ✔   |  ✔   |      |      |      |      |  ✔   |       |    got10k    | unofficial |
 |      |      |                                      |       |       |      |      |      |      |      |      |       |              |            |
 | 2018 | CVPR |    [SiamRPN](./3-SiamRPN/SiamRPN)    | ✔     |   ✔   |  ✔   |  ✔   |      |      |  ✔   |      |       |    got10k    | unofficial |
+|  |  |  |  |  |  |  | | |  | | |  |  |
 |      |      |    [SiamRPN](./3-SiamRPN/SiamRPN-GOT)| ✔     |   ✔   |  ✔   |      |      |      |      |  ✔   |       |    got10k    | unofficial |
 |      |      |                                      |       |       |      |      |      |      |      |      |       |              |            |
 | 2018 | ECCV |      [DaSiamRPN](./4-DaSiamRPN)      | ✔     |       |  ✔   |      |      |      |      |      |       |    pysot     | unofficial |
@@ -20,13 +21,14 @@
 | 2019 | CVPR |         [SiamDW](./6-SiamDW)         | ✔     |   ✔   |  ✔   |  ✔   |  ✔   |  ✔   |  ✔   |  ✔   |   ✔   |              |  official  |
 |      |      |                                      |       |       |      |      |      |      |      |      |       |              |            |
 | 2019 | CVPR | [SiamRPNpp](./7-SiamRPNpp/SiamRPNpp) | ✔     |   ✔   |  ✔   |  ✔   |  ✔   |  ✔   |  ✔   |      |       |    pysot     |  unofficial|
+|  |  |  |  |  |  |  |  |  |  | | |  | |
 |      |      |[SiamRPNpp](./7-SiamRPNpp/SiamRPNpp-GOT)| ✔     |   ✔   |  ✔   |      |      |      |      |  ✔   |       |    pysot     |  unofficial|
 |      |      |                                      |       |       |      |      |      |      |      |      |       |              |            |
 | 2019 | CVPR |       [SiamMask](./8-SiamMask)       | ✔     |   ✔   |  ✔   |  ✔   |  ✔   |  ✔   |  ✔   |      |       |    pysot     |  official  |
 |      |      |                                      |       |       |      |      |      |      |      |      |       |              |            |
 | 2020 | AAAI |  [SiamFCpp](./9-SiamFCpp/SiamFCpp)   | ✔     |   ✔   |  ✔   |  ✔   |  ✔   |  ✔   |  ✔   |  ✔   |   ✔   | pysot&got10k | unofficial |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |      |      | [SiamFCpp](./9-SiamFCpp/SiamFCpp-GOT)| ✔     |   ✔   |  ✔   |      |      |      |      |  ✔   |       | pysot&got10k | unofficial |
-
 
 - [BiliBili](https://www.bilibili.com/video/BV1Y64y1T7qs/) 
 
