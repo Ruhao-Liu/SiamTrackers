@@ -80,7 +80,7 @@ Our results is higher than the original paper on VOT2018 dataset. EAO=0.403(Ours
 ```
 The paper mainly analyzed the impact of padding on the tracking network. 
 ```
-- [2019-CVPR-SiamRPNpp](./7-SiamRPNpp)
+- [2019-CVPR-SiamRPNpp](./7-SiamRPN++)
 ![image](./image/SiamRPNpp.png)
 ```
 Support VScode single-step debugging.
@@ -100,7 +100,7 @@ Support testing and training.
 
 The results of my test are  inconsistent with the author's, please refer to my SiamMask branch.
 ```
-- [2020-AAAI-SiamFCpp](./9-SiamFCpp)
+- [2020-AAAI-SiamFCpp](./9-SiamFC++)
 ![image](./image/SiamFCpp.png)
 ```
 Support VScode single-step debugging.
